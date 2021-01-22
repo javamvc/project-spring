@@ -1,1 +1,19 @@
 
+
+
+
+
+spring:
+  security:
+    oauth2:
+      client:
+        registration:
+          github:
+            clientId: github-client-id
+            clientSecret: github-client-secret
+          google:
+            clientId: github-client-id
+            clientSecret: github-client-secret
+          facebook:
+            clientId: github-client-id
+            clientSecret: github-client-secret
